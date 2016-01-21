@@ -8,16 +8,16 @@ h1  {
 }
 .Avett{
   float: left;
-  width: 300px;
+  width: 400px;
 }
 
 .National {
   float: left;
-  width:300px;
+  width:400px;
 }
 
 .column {
-  width: 300px;
+  width: 80%;
   float: left;
 }
 
