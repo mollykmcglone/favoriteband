@@ -30,6 +30,13 @@ h3 {
   margin-top: 8px;
   margin-bottom: 8px;
 }
+
+.sidebar h3 {
+  text-align: center;
+  font-style: italic;
+  color: blue;
+}
+
 .lorem  {
   padding-left: 10px;
   padding-right: 10px;
