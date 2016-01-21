@@ -1,7 +1,9 @@
 .sidebar {
   width: 30%;
   float: right;
-  background-color:blue;
+  background-color:orange;
+  border: 2px solid blue;
+  padding: 4px;
 }
 h1  {
   text-align: center;
@@ -9,11 +11,13 @@ h1  {
 .Avett{
   float: left;
   width: 400px;
+  padding: 4px;
 }
 
 .National {
   float: left;
   width:400px;
+  padding: 4px;
 }
 
 .column {
@@ -23,5 +27,14 @@ h1  {
 
 h3 {
   text-align: left;
-
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.lorem  {
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 4px;
+  margin-bottom: 2px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
