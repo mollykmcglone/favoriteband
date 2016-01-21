@@ -3,3 +3,25 @@
   float: right;
   background-color:blue;
 }
+h1  {
+  text-align: center;
+}
+.Avett{
+  float: left;
+  width: 300px;
+}
+
+.National {
+  float: left;
+  width:300px;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
+
+h3 {
+  text-align: left;
+
+}
